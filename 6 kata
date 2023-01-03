@@ -1,4 +1,4 @@
-#https://www.codewars.com/kata/58184387d14fc32f2b0012b2
+# https://www.codewars.com/kata/58184387d14fc32f2b0012b2
 
 def f (x)
   x / 2 - x**2 / 8 + x**3 / 16 - 5*x**4 / 128
